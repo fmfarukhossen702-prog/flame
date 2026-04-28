@@ -6,9 +6,6 @@ body{
     height: 100vh;
 }
 .container{
-    width: 60px;
-    height: 60px;
-    background-color: aqua;
     position: relative;
     transform-origin: center bottom;
     animation: flicker 3ms 200ms ease-in infinite alternate;
